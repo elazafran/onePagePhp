@@ -1,0 +1,13 @@
+
+Options +FollowSymLinks -MultiViews
+
+RewriteEngine On
+
+#RewriteBase /onepage/
+#RewriteRule ^([^/]+) index.php?variableSwitch=$1 [L,QSA]
+
+
+#RewriteRule ^/articulo/(.*)$ /index.php?title=$1
+
+#RewriteRule ^index.html+$ /API/sensor/dht22.php?title=$1 [R=301]
+#RewriteRule ^([a-zA-Z_-]*)$ index.php?variableSwitch=$1
