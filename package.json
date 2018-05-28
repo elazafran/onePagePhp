@@ -19,6 +19,7 @@
     "vinyl-ftp": "^0.6.1"
   },
   "dependencies": {
+    "hoek": "^5.0.3",
     "npm": "^6.1.0",
     "npm-install-all": "^1.1.21"
   }
