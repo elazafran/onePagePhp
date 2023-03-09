@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "hoek": "^5.0.3",
-    "npm": "^6.1.0",
+    "npm": "^9.6.1",
     "npm-install-all": "^1.1.21"
   }
 }
